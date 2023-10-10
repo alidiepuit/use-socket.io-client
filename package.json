@@ -7,8 +7,8 @@
     "test": "./node_modules/mocha/bin/mocha --require babel-core/register test/*.js"
   },
   "peerDependencies": {
-    "react": "^16.8.0",
-    "react-dom": "^16.8.0"
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
   },
   "author": "@iamgyz",
   "repository": {
@@ -34,8 +34,8 @@
     "babel-preset-react": "^6.24.1",
     "chai": "^4.2.0",
     "mocha": "^5.2.0",
-    "react": "^16.8.1",
-    "react-dom": "^16.8.1",
-    "react-test-renderer": "^16.8.1"
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-test-renderer": "*"
   }
 }
